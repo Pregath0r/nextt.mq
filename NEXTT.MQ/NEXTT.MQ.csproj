@@ -7,4 +7,12 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\NEXTT.MQTT\NEXTT.MQTT.csproj" />
+        <ProjectReference Include="..\NEXTT.View.Infrastructure\NEXTT.View.Infrastructure.csproj" />
+    </ItemGroup>
+
+
+
+
 </Project>
